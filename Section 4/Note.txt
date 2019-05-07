@@ -1,0 +1,7 @@
+Important Note
+
+JavaScript Topics are not yet over !! 
+
+There is one more important topic called "JavaScript Objects" which you will learn in detail in Section 9
+
+For now please continue in the order where videos are arranged and lets switch back to Protractor!

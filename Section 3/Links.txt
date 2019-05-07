@@ -1,0 +1,7 @@
+Links to read more on promises
+
+https://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/
+
+https://www.sohamkamani.com/blog/2016/03/14/wrapping-your-head-around-async-programming/
+
+https://bridge360blog.com/2015/05/05/improving-protractor-tests-using-shared-functions-and-promises/
