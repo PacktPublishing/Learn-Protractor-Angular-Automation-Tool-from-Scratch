@@ -1,0 +1,11 @@
+Section 8 :                 Practise project to develop Protractor tests
+
+Name                              Title
+
+Rec 05-16-18 1              Demo project walkthrough
+Rec 05-16-18 2              Submission of Forms with various Protractor locators
+Rec 05-16-18 3              Validating Angular error messages - example
+Rec 05-17-18                Handling dynamic sections with Protractor
+p12                         Practise Exercises on selecting items to cart-
+Rec 05-17-18 3              String functions to extract count of cart items
+Code                        Code download 
